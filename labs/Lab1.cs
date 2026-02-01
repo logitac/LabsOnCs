@@ -1,12 +1,18 @@
-﻿class Program
+﻿namespace ConsoleApp2
 {
-    static void Main(string[] args)
+    class Lab1
     {
-        Console.Write("Введите два целых числа через пробел: ");
-        var inputString = Console.ReadLine();
-        var stringParts = inputString.Split(' ');
-        int A = Convert.ToInt32(stringParts[0]);
-        int B = Convert.ToInt32(stringParts[1]);
-        Console.WriteLine($"A + B = {A + B}");
+        static void Main(string[] args)
+        {
+            Console.Write("Write a number: ");
+            int n = int.Parse(Console.ReadLine());
+            int sum = 0;
+
+            for (int i = 0; i < n; i++)
+            {
+                sum += i;
+            }
+            Console.WriteLine($"The sum is {sum}");
+        }
     }
 }

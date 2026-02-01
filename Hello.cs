@@ -1,6 +1,4 @@
-﻿namespace ConsoleApp2;
-
-public class Hello
+﻿public class Hello
 {
     static void Main(string[] args)
     {
