@@ -7,5 +7,5 @@
 ### Основы
         
 * [Приветствие](https://github.com/logitac/LabsOnCs/blob/master/Hello.cs)
-* [A+B](https://github.com/logitac/LabsOnCs/blob/master/labs/Lab1.cs)
-* [Игра](https://github.com/logitac/LabsOnCs/blob/master/labs/Lab2.cs)
+* [Лабораторная работа №1. Простые задачки.](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab1)
+* [Лабораторная работа №2. Задачки на условные конструкции.](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab2)

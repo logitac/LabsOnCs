@@ -1,4 +1,4 @@
-﻿class Lab2
+﻿class Lab1_2
 {
     static void Main()
     {
