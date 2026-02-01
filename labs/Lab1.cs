@@ -10,3 +10,5 @@
         Console.WriteLine($"A + B = {A + B}");
     }
 }
+
+// Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=1
