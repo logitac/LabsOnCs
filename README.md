@@ -4,7 +4,8 @@
 
 ## Работы:
 
-### Основа
+### Основы
         
-* [Приветствие]()
-* Work in progress...
+* [Приветствие](https://github.com/logitac/LabsOnCs/blob/master/Hello.cs)
+* [A+B](https://github.com/logitac/LabsOnCs/blob/master/labs/Lab1.cs)
+* 
