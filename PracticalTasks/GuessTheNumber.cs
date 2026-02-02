@@ -12,19 +12,19 @@
         {
             case 1:
                 randomNumber = random.Next(1, 500);
-                Console.WriteLine("Сложность выбрана. Режим сложности - Лёгкий. Диапозон: (1-500)");
+                Console.WriteLine("Сложность выбрана. Режим сложности - Лёгкий. Диапазон: (1-500)");
                 break;
             case 2:
                 randomNumber = random.Next(1, 5000);
-                Console.WriteLine("Сложность выбрана. Режим сложности - Средний. Диапозон: (1-5000)");
+                Console.WriteLine("Сложность выбрана. Режим сложности - Средний. Диапазон: (1-5000)");
                 break;
             case 3:
                 randomNumber = random.Next(1, 20000);
-                Console.WriteLine("Сложность выбрана. Режим сложности - Сложный. Диапозон: (1-20000)");
+                Console.WriteLine("Сложность выбрана. Режим сложности - Сложный. Диапазон: (1-20000)");
                 break;
             case 4:
                 randomNumber = random.Next(1, 100000);
-                Console.WriteLine("Сложность выбрана. Режим сложности - Невозможный. Диапозон: (1-100000)");
+                Console.WriteLine("Сложность выбрана. Режим сложности - Невозможный. Диапазон: (1-100000)");
                 break;
             default:
                 Console.WriteLine("Сложность не была выбрана!");
