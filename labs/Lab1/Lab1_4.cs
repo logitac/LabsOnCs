@@ -1,4 +1,5 @@
-﻿class Lab1_4
+﻿#if false
+class Lab1_4
 {
     static void Main(string[] args)
     {
@@ -48,5 +49,5 @@
         Console.WriteLine($"Difference = {res}");
     }
 }
-
+#endif
 // Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=21

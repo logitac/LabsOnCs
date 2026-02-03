@@ -1,4 +1,5 @@
-﻿class Lab2_8
+﻿#if false
+class Lab2_8
 {
     static void Main(string[] args)
     {
@@ -19,3 +20,4 @@
             Console.WriteLine($"Точка ({x}, {y}) НЕ входит в окружность радиуса {radius}");
     }
 }
+#endif

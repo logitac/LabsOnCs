@@ -1,4 +1,5 @@
-﻿class Lab2_7
+﻿#if false
+class Lab2_7
 {
     static void Main()
     {
@@ -21,3 +22,4 @@
         Console.WriteLine($"Сумма: {sum}");
     }
 }
+#endif

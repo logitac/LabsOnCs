@@ -1,4 +1,5 @@
-﻿class Lab2_10
+﻿#if false
+class Lab2_10
 {
     static void Main(string[] args)
     {
@@ -25,3 +26,4 @@
             Console.WriteLine(c*c < a*a + b*b ? "Остроугольный" : "Не остроугольный");
     }
 }
+#endif

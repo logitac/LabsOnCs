@@ -1,4 +1,5 @@
-﻿class Lab1_1
+﻿#if false
+class Lab1_1
 { 
     static void Main(string[] args)
     {
@@ -13,5 +14,5 @@
         Console.WriteLine($"The sum is {sum}");
     }
 }
-
+#endif
 // Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=1

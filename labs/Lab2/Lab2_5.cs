@@ -1,4 +1,5 @@
-﻿class Lab2_5
+﻿#if false
+class Lab2_5
 {
     static void Main(string[] args)
     {
@@ -26,3 +27,4 @@
             Console.WriteLine("в IV четверти");
     }
 }
+#endif

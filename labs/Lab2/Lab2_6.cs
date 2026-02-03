@@ -1,4 +1,5 @@
-﻿class Lab2_6
+﻿#if false
+class Lab2_6
 {
     static void Main(string[] args)
     {
@@ -18,3 +19,4 @@
         }
     }
 }
+#endif

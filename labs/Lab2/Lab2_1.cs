@@ -1,4 +1,5 @@
-﻿class Lab2_1
+﻿#if false
+class Lab2_1
 {
     static void Main(string[] args)
     {
@@ -24,3 +25,4 @@
             Console.WriteLine($"{num3}^4 = {Math.Pow(num3, 4)}");
     }
 }
+#endif

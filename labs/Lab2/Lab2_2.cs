@@ -1,4 +1,5 @@
-﻿class Lab2_2
+﻿#if false
+class Lab2_2
 {
     static void Main(string[] args)
     {
@@ -23,3 +24,4 @@
             Console.WriteLine($"{Math.Round(d1)} = {Math.Round(d2)}");
     }
 }
+#endif

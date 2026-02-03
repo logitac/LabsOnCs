@@ -1,7 +1,9 @@
-﻿public class Hello
+﻿#if false 
+class Hello
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Hello World!");
     }
 }
+#endif

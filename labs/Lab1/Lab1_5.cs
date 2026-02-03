@@ -1,4 +1,5 @@
-﻿class Lab1_5
+﻿#if false
+class Lab1_5
 {
     static void Main(string[] args)
     {
@@ -16,5 +17,5 @@
             Console.WriteLine(num1 + " = " + num2);
     }
 }
-
+#endif
 // Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=25

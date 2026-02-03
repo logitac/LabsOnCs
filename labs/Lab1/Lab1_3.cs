@@ -1,4 +1,5 @@
-﻿class Lab1_3
+﻿#if false
+class Lab1_3
 {
     static void Main(string[] args)
     {
@@ -21,5 +22,5 @@
         }
     }
 }
-
+#endif
 // Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=8

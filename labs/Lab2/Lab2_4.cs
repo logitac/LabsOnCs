@@ -1,4 +1,5 @@
-﻿class Lab2_4
+﻿#if false
+class Lab2_4
 {
     static void Main(string[] args)
     {
@@ -34,3 +35,4 @@
         Console.WriteLine($"Результат: {result1}, {result2}");
     }
 }
+#endif

@@ -1,4 +1,5 @@
-﻿class Lab1_2
+﻿#if false
+class Lab1_2
 {
     static void Main()
     {
@@ -17,5 +18,5 @@
         Console.WriteLine(result);
     }
 }
-
+#endif
 // Ссылка на задачу: https://acmp.ru/index.asp?main=solution&id_task=4

@@ -1,4 +1,5 @@
-﻿class Lab1_6
+﻿#if false
+class Lab1_6
 {
     static void Main()
     {
@@ -13,5 +14,5 @@
         Console.WriteLine($"Harry didn't get shot = {max - num1}. Larry didn't get shot = {max - num2}");
     }
 }
-
+#endif
 // Ссылка на задачку: https://acmp.ru/index.asp?main=task&id_task=25

@@ -1,6 +1,6 @@
-﻿class GuessTheNumber
+﻿#if false  
+class GuessTheNumber
 {
-#if true    
     static void Main()
     {
         Random random = new Random();
@@ -48,5 +48,5 @@
         
         Console.WriteLine($"Поздравляю ты угадал! Число, которое было загадано - {randomNumber}");
     }
-#endif    
 }
+#endif  

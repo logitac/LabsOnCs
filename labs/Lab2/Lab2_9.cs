@@ -1,4 +1,5 @@
-﻿class Lab2_9
+﻿#if false
+class Lab2_9
 {
     static void Main(string[] args)
     {
@@ -23,3 +24,4 @@
         Console.WriteLine($"Точка D({Dx},{Dy}) {(inside ? "ВНУТРИ" : "СНАРУЖИ")} треугольника");
     }
 }
+#endif
