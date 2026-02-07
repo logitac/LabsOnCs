@@ -10,7 +10,7 @@
 * [**Лабораторная работа №1. Простые задачки**.](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab1)
 * [**Лабораторная работа №2. Задачки на условные конструкции.**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab2)
 * [**Лабораторная работа №3. Задачки на циклические структуры и обработка одномерных и двумерных массивов**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab3)
-* [**Лабораторная работа №4. Работа со строками**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab4)
+* [**Лабораторная работа №4. Работа со строками**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab4/README.md)
 * [**Лабораторная работа №5. Работа с данными типа: множество, дата, кортежи**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab5)
 
 ### Практические работы (Небольшие работы)
