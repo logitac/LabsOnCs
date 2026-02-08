@@ -1,4 +1,4 @@
-﻿#if true
+﻿#if false
 class Lab4_6
 {
     static void Main()
