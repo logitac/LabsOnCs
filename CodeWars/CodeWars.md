@@ -24,3 +24,6 @@
 * [Disemvowel Trolls](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/disemvowel_trolls.md)
 * [Anagram Detection](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/anagram_detection.md)
 * [Reverse Words](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/reverse_words.md)
+* [Character Counter](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/character_counter.md)
+* [Consecutive Vowels in a String](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/consecutive_vowels_in_a_string.md)
+* [Valid Parentheses](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/String/kyu7/valid_parentheses.md)
