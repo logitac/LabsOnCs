@@ -11,6 +11,10 @@ P.S. Где стоит знак **!** перед названием задачк
 #### 8 kyu (Самоё легкое)
 * [Third Angle of a Triangle - найти третий угол треугольника](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/Fundamentals/kyu8/third_angle_of_a_triangle.md)
 * [Bin to Decimal - преобразовать двоичное число в десятичную](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/Fundamentals/kyu8/bin_to_decimal.md)
+* [No zeros for heroes - удалить нули с конца числа](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/Fundamentals/kyu8/no_zeros_for_heroes.md)
+
+#### 7 kyu
+* [Most digits - найти число с наибольшим количеством цифр в нём](https://github.com/logitac/LabsOnCs/tree/master/CodeWars/Fundamentals/kyu7/most_digits.md)
 
 ### Arrays:
 
