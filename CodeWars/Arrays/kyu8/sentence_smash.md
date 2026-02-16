@@ -1,6 +1,6 @@
 ﻿## Моё решение которое прошло все тесты:
 [**Задача -> CodeWars**](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/csharp)
-```
+```cs
 public class Kata
 {
     public static string Smash(string[] words)

@@ -9,7 +9,7 @@
 * "foefet" Это анаграмма "toffee"
 * "Buckethead" Это анаграмма "DeathCubeK"
 
-```
+```cs
 using System;
 
 public class Kata

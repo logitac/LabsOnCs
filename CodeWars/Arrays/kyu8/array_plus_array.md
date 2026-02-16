@@ -1,6 +1,6 @@
 ﻿## Моё решение которое прошло все тесты:
 [**Задача -> CodeWars**](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/csharp)
-```
+```cs
 public static class Kata
 {
   public static int ArrayPlusArray(int[] arr1, int[] arr2)

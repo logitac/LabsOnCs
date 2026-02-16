@@ -2,7 +2,7 @@
 [**Задача -> CodeWars**](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/csharp)
 
 ##### Решил с подсказкой от нейронки. Подсказала, что можно число превратить в строку и дальше работать со строкой (теперь знаю про такой способ решения).
-```
+```cs
 using System.Collections.Generic;
 using System;
 

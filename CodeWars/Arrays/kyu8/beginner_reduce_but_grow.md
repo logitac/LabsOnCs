@@ -1,6 +1,6 @@
 ﻿## Моё решение которое прошло все тесты:
 [**Задача -> CodeWars**](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/csharp)
-```
+```cs
 public class Kata
 {
   public static int Grow(int[] x)

@@ -14,8 +14,9 @@
 * [**Лабораторная работа №4. Работа со строками**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab4/README.md)
 * [**Лабораторная работа №5. Работа с данными типа: множество, дата, кортежи**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab5)
 * [**Лабораторная работа №6. Организация и использование функций**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab6)
-* [**Лабораторная работа №7. Исключения. NULL**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab7)
-
+* [**Лабораторная работа №7. Исключения. NULL**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab7/lab7.md)
+* [**Лабораторная работа №8. Асинхронные вычисления**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab8/lab8.md)
+* [**Лабораторная работа №9. Работа с файлами**](https://github.com/logitac/LabsOnCs/tree/master/labs/Lab9/lab9.md)
 
 ### Практические работы (Небольшие работы)
 

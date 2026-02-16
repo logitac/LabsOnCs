@@ -17,7 +17,7 @@
 
 Звучит сигнал тревоги 4 раза в день. Максимальный интервал, который не будет звучать, составляет 11 часов 40 минут.
 
-```
+```cs
 using System.Collections.Generic;
 using System;
 using System.Linq;

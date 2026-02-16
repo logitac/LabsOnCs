@@ -13,7 +13,7 @@
 4. Вернуть значение.
 
 ##### Решение кодом:
-```
+```cs
 public class Kata
 {
   public static int FindLongest(int[] number)

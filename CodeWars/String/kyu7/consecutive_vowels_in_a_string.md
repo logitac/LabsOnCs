@@ -4,7 +4,7 @@
 ### Условие:
 Слишком большое...
 
-```
+```cs
 public class Kata 
 {
   public static int GetTheVowels(string word) 

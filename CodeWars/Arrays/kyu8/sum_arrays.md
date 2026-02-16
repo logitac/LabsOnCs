@@ -1,6 +1,6 @@
 ﻿## Моё решение которое прошло все тесты:
 [**Задача -> CodeWars**](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/csharp)
-```
+```cs
 public class Kata
 {
   public static double SumArray(double[] array)

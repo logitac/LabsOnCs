@@ -14,7 +14,7 @@
 3. **Сложить.**
 
 ##### Решение кодом:
-```
+```cs
 using System;
 
 namespace Solution

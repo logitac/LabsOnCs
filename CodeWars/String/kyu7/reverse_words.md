@@ -6,7 +6,7 @@
 Примеры:
 * "This is an example!" ==> "sihT si na !elpmaxe"
 * "double  spaces"      ==> "elbuod  secaps"
-```
+```cs
 using System;
 
 public static class Kata

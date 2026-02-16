@@ -1,6 +1,6 @@
 ﻿## Моё решение которое прошло все тесты:
 [**Задача -> CodeWars**](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/csharp)
-```
+```cs
 using System.Linq;
 namespace Solution
 {
