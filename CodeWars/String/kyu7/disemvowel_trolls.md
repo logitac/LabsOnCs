@@ -36,7 +36,7 @@ public static class Kata
 ```
 
 ## Лучшие решения (не мои естественно):
-```
+```cs
 using System;
 using System.Text.RegularExpressions;
 
@@ -49,7 +49,7 @@ public static class Kata
 }
 ```
 
-```
+```cs
 using System;
 
 public static class Kata

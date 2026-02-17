@@ -26,7 +26,7 @@ namespace Solution
 
 ## Лучшее решение
 
-```
+```cs
 using System.Linq;
 namespace Solution
 {

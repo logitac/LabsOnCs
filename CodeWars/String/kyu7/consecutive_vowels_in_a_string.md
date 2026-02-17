@@ -33,7 +33,7 @@ public class Kata
 P.S. Это считается лучшим решением этой задачи (возможно).
 
 ### Решение, которое предложила нейронка (более элигатная)
-```
+```cs
 public class Kata 
 {
     public static int GetTheVowels(string word) 

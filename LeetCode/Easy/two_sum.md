@@ -1,4 +1,4 @@
-﻿## 1. Two Sum:
+﻿## 1. Two Sum
 [**Задача -> LeetCode**](https://leetcode.com/problems/two-sum/)
 
 ### Условие:

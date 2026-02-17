@@ -16,7 +16,7 @@ public class Kata
 
 ## Другой способ (не моё решение)
 
-```
+```cs
 using System.Linq;
 
 public class Kata

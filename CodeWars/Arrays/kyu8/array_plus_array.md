@@ -22,7 +22,7 @@ public static class Kata
 
 ## Другой способ (не моё решение)
 
-```
+```cs
 public static class Kata
 {
   public static int ArrayPlusArray(int[] arr1, int[] arr2)

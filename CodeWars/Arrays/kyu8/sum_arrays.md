@@ -19,7 +19,7 @@ public class Kata
 ## Лучшее решение:
 
 
-```
+```cs
 using System.Linq;
 
 public class Kata

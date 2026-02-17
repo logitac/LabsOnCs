@@ -20,7 +20,7 @@ public class Kata
 ## Лучшее решение:
 
 
-```
+```cs
 public class Kata
 {
   public static string Smash(string[] words)

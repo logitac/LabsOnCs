@@ -48,7 +48,7 @@ public class NoBoring
 но у меня получилось так.
 
 ##### Вот альтернативное решение, намного лучше, чем моё:
-```
+```cs
 using System;
 
 public class NoBoring 
@@ -63,7 +63,7 @@ public class NoBoring
 }
 ```
 ##### Или можно по другому с использованием встроенных функций:
-```
+```cs
 using System;
 
 public class NoBoring 

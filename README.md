@@ -31,7 +31,7 @@
 
 * Coming soon...
 
-### Работа с Базами Данных (MySQL, ...)
+### Работа с Базами Данных (MySQL, PostgreSQL, ...)
 
 * Coming soon...
 
